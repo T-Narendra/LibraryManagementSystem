@@ -12,3 +12,11 @@ This is a simple *Library Management System* built using *Java* and *Object-Orie
 - ✅ Search books by title or author
 - ✅ Simple and clean menu-driven UI
 - ✅ Fully OOP-based structure (Encapsulation, Abstraction)
+
+----
+
+🛠 Technologies Used
+
+- Java (JDK 8+)
+- VS Code or any Java IDE
+- Command-line interface (Terminal)
