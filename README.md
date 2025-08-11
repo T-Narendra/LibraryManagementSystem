@@ -1,10 +1,10 @@
-📚 Library Management System using oops (Java Console App)
+## 📚 Library Management System using oops (Java Console App)
 
 This is a simple *Library Management System* built using *Java* and *Object-Oriented Programming (OOP)* concepts. It allows users to view, issue, return, and search books via a console-based interface.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 - ✅ View available books
 - ✅ Issue books
@@ -15,7 +15,7 @@ This is a simple *Library Management System* built using *Java* and *Object-Orie
 
 ----
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 - Java (JDK 8+)
 - VS Code or any Java IDE
